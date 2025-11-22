@@ -1,1 +1,7 @@
-qrcode pillow notify_py websockets cryptography pyperclip
+qrcode[pil]
+Pillow
+notify-py
+websockets
+cryptography
+pyperclip
+zeroconf

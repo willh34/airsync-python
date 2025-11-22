@@ -24,6 +24,7 @@ async def provide_mac_info(handler_id, device_info):
         "model": "AirSync-Py", "type": "PC", "isPlus": True, "isPlusSubscription": True,
     }
 
+'''
 async def send_file_task(handler_id):
     try:
         file_path = FILE PATH HERE
@@ -35,6 +36,7 @@ async def send_file_task(handler_id):
             logging.info("File selection cancelled.")
     except Exception as e:
         logging.error(f"Failed to send file: {e}", exc_info=True)
+'''
 
 @server.on_event("device_connected")
 async def on_connect(handler_id):
