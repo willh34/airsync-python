@@ -1,1 +1,1 @@
-# <center>AirSync Python Library</center>
+# <p align="center">AirSync Python Library</p>
