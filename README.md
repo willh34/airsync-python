@@ -1,2 +1,1 @@
-# airsync-python
- 
+# <center>AirSync Python Library</center>
