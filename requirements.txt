@@ -1,0 +1,1 @@
+qrcode pillow notify_py websockets cryptography pyperclip
