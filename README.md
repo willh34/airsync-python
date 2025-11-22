@@ -7,3 +7,6 @@ Due to the very early state, there isn't currently a library available on PyPI. 
 
 ## Documentation
 Coming soon!
+
+## Credit
+Thank you so much to [sameerasw](https://github.com/sameerasw) for making the macOS and Android app, protocol documentation, and being awesome to work with!
